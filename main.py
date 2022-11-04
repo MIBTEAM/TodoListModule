@@ -1,5 +1,0 @@
-print("Laiba")
-print("Ramsha")
-print("Friends")
-print("Hi")
-print("Working")
