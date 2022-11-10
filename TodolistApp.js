@@ -26,7 +26,7 @@ function loadEventListeners(){
 function addTask(e){
 if(taskInput.value === '')
 {
-	alert('Add a task');
+	alert('Add a task:I have added a text here brother!!!');
 }
 else
 {
